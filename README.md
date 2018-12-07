@@ -1,10 +1,12 @@
-xml-c14n
-========
+xml-c14n-promise
+================
 
 XML canonicalisation (xml-c14n)
 
 Overview
 --------
+
+I just forked from deoxxa/xml-c14n and added native promise support.
 
 This module performs XML canonicalisation as specified in [xml-c14n](http://www.w3.org/TR/xml-exc-c14n/).
 
